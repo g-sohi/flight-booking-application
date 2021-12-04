@@ -1,4 +1,4 @@
 # flight-management-system
 # Demonstration
 
-![flight_demo.gif]
+![](flight_demo.gif)
