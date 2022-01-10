@@ -1,6 +1,5 @@
 ## Flight-Booking-Application
-A flight booking application that allows the user to read passenger data from a text file and manage flight information using the command line interface.
-
+A flight booking application that reads passenger data from a text file and helps manage flight information using the command line.
 ## Installation
 1. Clone the repository from github using the following command:
 ```
